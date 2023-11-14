@@ -1,0 +1,6 @@
+export FOLDER_ID="b1gh9vponl12f9in278r"wYEQvZ8
+>> export IAM_TOKEN="t1.9euelZrOy8eRlpqLicjJyJGMkp7Mi-3rnpWajJLJj83Pzo-SlMvKyZuVzZ7l8_cveA9W-e9eFFwX_d3z928mDVb5714UXBf9zef1656Vms2Zzcidj5KWlZnNx43Oz83N7_zF656Vms2Zzcidj5KWlZnNx43Oz83N.5hukB6eIJmyHIvPCrqestEaecNO3134fc9RKPKp-TPmG4LGFgn1WlZiz7fFqEQsVTRMz0s_z0bIBTgP9FjomAw"
+>> python task82.py
+>>   --folder_id ${FOLDER_ID}
+>>   --output speech.raw
+>>   --text "Я Яндекс Спичк+ит. Я могу превратить любой текст в речь. Теперь и в+ы - можете!"
